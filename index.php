@@ -138,7 +138,7 @@ function alertSet(e) {
     document.getElementById("js-sec-text").innerHTML = t,
     setInterval(function() {
         if (0 == t){
-			location.href="https://yut.monster/";
+			location.href="https://fortecloud.ml/";
 		}else {
             t -= 1,
             document.getElementById("js-sec-text").innerHTML = t;
